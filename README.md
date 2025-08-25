@@ -1,9 +1,5 @@
 # modelisation_stochastique
-c'est une Simulation de séries économiques avec modèles stochastiques
-dans le  but  de modéliser l'évolution du PIB, de l'inflation, du chômage et de la bourse en utilisant des processus aléatoires sur plusieurs années.
-Il montre les relations entre les variables en affichant plusieurs graphiques pour visualiser les résultats de la simulation.
-où au résultat on peut exporter les données simulées dans un fichier 
-
+Il s'agit d'une modélisation de séries économiques en utilisant des modèles stochastiques pour simuler l'évolution du PIB, du taux d'inflation, du chômage et de la bourse en faisant appel à des processus aléatoires sur une période prolongée.  Il illustre les liens entre les variables en présentant divers graphiques pour représenter les résultats de la simulation.  dont il est possible d'exporter les données simulées dans un fichier.
 
 
 
